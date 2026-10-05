@@ -1,0 +1,1 @@
+import Classes from "../components/Classes"; export default function Page(){return <Classes/>}

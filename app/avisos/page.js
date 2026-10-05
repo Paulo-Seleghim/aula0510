@@ -1,0 +1,1 @@
+import Notices from "../components/Notices"; export default function Page(){return <Notices/>}

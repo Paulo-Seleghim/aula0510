@@ -1,0 +1,1 @@
+import Teachers from "../components/Teachers"; export default function Page(){return <Teachers/>}
